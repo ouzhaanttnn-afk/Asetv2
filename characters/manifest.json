@@ -1,0 +1,22 @@
+{
+  "package": "mihenk-character-assets",
+  "version": "1.0.0",
+  "characterCount": 11,
+  "excluded": ["group-photo-woman"],
+  "style": "premium semi-realistic animated 3D mobile game portrait",
+  "palette": ["ivory", "charcoal", "deep-purple", "gold"],
+  "sourceOrder": "left-to-right, excluding the woman",
+  "assets": [
+    {"id":"male-01","file":"male-01.png","sourcePosition":"far-left","traits":"young, short dark hair, clean-shaven, white shirt"},
+    {"id":"male-02","file":"male-02.png","sourcePosition":"second-from-left","traits":"black rectangular glasses, short hair and beard, black polo"},
+    {"id":"male-03","file":"male-03.png","sourcePosition":"third-from-left","traits":"young, short dark hair, trimmed beard, white shirt"},
+    {"id":"male-04","file":"male-04.png","sourcePosition":"fourth-from-left","traits":"slim face, light-brown hair, clean-shaven, dark blazer"},
+    {"id":"male-05","file":"male-05.png","sourcePosition":"fifth-from-left","traits":"middle-aged, short dark hair and stubble, white shirt"},
+    {"id":"male-06","file":"male-06.png","sourcePosition":"sixth-from-left","traits":"middle-aged, dark hair, full trimmed beard, formal suit"},
+    {"id":"male-07","file":"male-07.png","sourcePosition":"immediately-left-of-woman","traits":"young, short dark hair, neat beard, double-breasted suit"},
+    {"id":"male-08","file":"male-08.png","sourcePosition":"immediately-right-of-woman","traits":"older, short gray hair, clean-shaven, pale blue shirt"},
+    {"id":"male-09","file":"male-09.png","sourcePosition":"third-from-right","traits":"short dark hair, full beard, sunglasses on head, black jacket"},
+    {"id":"male-10","file":"male-10.png","sourcePosition":"second-from-right","traits":"tall and slim, swept-back hair, beard and glasses, gray blazer"},
+    {"id":"male-11","file":"male-11.png","sourcePosition":"far-right","traits":"young, short dark hair, neat beard, black shirt"}
+  ]
+}
