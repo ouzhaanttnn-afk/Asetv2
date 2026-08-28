@@ -1,7 +1,7 @@
 {
   "package": "mihenk-character-assets",
-  "version": "1.0.0",
-  "characterCount": 11,
+  "version": "1.1.0",
+  "characterCount": 12,
   "excluded": ["group-photo-woman"],
   "style": "premium semi-realistic animated 3D mobile game portrait",
   "palette": ["ivory", "charcoal", "deep-purple", "gold"],
@@ -17,6 +17,7 @@
     {"id":"male-08","file":"male-08.png","sourcePosition":"immediately-right-of-woman","traits":"older, short gray hair, clean-shaven, pale blue shirt"},
     {"id":"male-09","file":"male-09.png","sourcePosition":"third-from-right","traits":"short dark hair, full beard, sunglasses on head, black jacket"},
     {"id":"male-10","file":"male-10.png","sourcePosition":"second-from-right","traits":"tall and slim, swept-back hair, beard and glasses, gray blazer"},
-    {"id":"male-11","file":"male-11.png","sourcePosition":"far-right","traits":"young, short dark hair, neat beard, black shirt"}
+    {"id":"male-11","file":"male-11.png","sourcePosition":"far-right","traits":"young, short dark hair, neat beard, black shirt"},
+    {"id":"male-12","file":"male-12.png","name":"Kemal Usta","role":"Tecrübeli Kuyumcu","sourcePosition":"separate portrait reference","traits":"elderly, bald, thick gray eyebrows, gray moustache and short beard, dignified expression, charcoal waistcoat and ivory shirt"}
   ]
 }

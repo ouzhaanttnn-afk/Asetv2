@@ -1,6 +1,6 @@
 # Mihenk Character Asset Pack
 
-Bu paket, verilen grup fotoğrafındaki 11 erkek karakterin soldan sağa sıralanmış, Mihenk'in premium yarı-gerçekçi animasyon stiline uyarlanmış portrelerini içerir. Fotoğraftaki hanımefendi kullanıcı isteği doğrultusunda pakete dahil edilmemiştir.
+Bu paket, Mihenk'in premium yarı-gerçekçi animasyon stiline uyarlanmış 12 erkek karakter portresi içerir. İlk 11 karakter grup fotoğrafından soldan sağa sıralanmıştır; `male-12` ayrı bir portre referansından eklenmiştir. Grup fotoğrafındaki hanımefendi kullanıcı isteği doğrultusunda pakete dahil edilmemiştir.
 
 ## Karakterler
 
@@ -17,6 +17,7 @@ Bu paket, verilen grup fotoğrafındaki 11 erkek karakterin soldan sağa sırala
 | `male-09.png` | Sağdan 3 | Kısa koyu saç, dolgun sakal, başta gözlük, siyah ceket |
 | `male-10.png` | Sağdan 2 | Uzun ve ince, geriye taranmış saç, sakal ve gözlük, gri blazer |
 | `male-11.png` | En sağ | Genç, kısa koyu saç, düzenli sakal, siyah gömlek |
+| `male-12.png` | Ayrı portre referansı | **Kemal Usta** — Tecrübeli kuyumcu; ileri yaş, kel, kalın gri kaş, gri bıyık ve kısa sakal |
 
 ## Kullanım
 

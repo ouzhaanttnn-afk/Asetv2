@@ -4,7 +4,7 @@ Mihenk kuyumculuk simülasyonu için hazırlanmış premium, yarı-gerçekçi an
 
 ## İçerik
 
-- `characters/male-01.png` – `characters/male-11.png`: 11 adet 1254×1254 şeffaf PNG portre
+- `characters/male-01.png` – `characters/male-12.png`: 12 adet 1254×1254 şeffaf PNG portre
 - `characters/manifest.json`: uygulama entegrasyonu için karakter listesi
 - `characters/CHARACTER_INDEX.md`: referans sırası ve karakter açıklamaları
 - `characters/PREVIEW.jpg`: toplu önizleme
